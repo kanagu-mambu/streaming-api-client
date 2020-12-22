@@ -1,0 +1,20 @@
+{
+  "name": "streaming-api-client",
+  "version": "1.0.0",
+  "description": "MIT License, so you are allowed to do anything with this source code based on your own discretion. I am happy to support you in anyway I could but the responsibility is upon you in terms of how you are using this in your project or any results of that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanagu-mambu/streaming-api-client.git"
+  },
+  "keywords": [],
+  "author": "Kanagu Duraiswamy <kanagu.duraiswamy@mambu.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanagu-mambu/streaming-api-client/issues"
+  },
+  "homepage": "https://github.com/kanagu-mambu/streaming-api-client#readme"
+}
